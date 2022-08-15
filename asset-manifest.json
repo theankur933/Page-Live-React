@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Page-Live-React/static/css/main.968dc35a.css",
+    "main.js": "/Page-Live-React/static/js/main.4f268ab0.js",
+    "index.html": "/Page-Live-React/index.html",
+    "main.968dc35a.css.map": "/Page-Live-React/static/css/main.968dc35a.css.map",
+    "main.4f268ab0.js.map": "/Page-Live-React/static/js/main.4f268ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968dc35a.css",
+    "static/js/main.4f268ab0.js"
+  ]
+}
